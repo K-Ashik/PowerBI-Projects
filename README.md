@@ -9,3 +9,5 @@ Ecommerce Sales: https://app.powerbi.com/view?r=eyJrIjoiMzI0ODIxOGQtYzM3ZS00YjY0
 Healthcare Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTJhMmRiZmUtOGNmOS00NTBiLTgzNWMtYjVjNDkwYThkZjA1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 Superstore Sales: https://app.powerbi.com/view?r=eyJrIjoiY2ZlMzZjZTUtNDQ2MC00OGU0LTg0Y2YtZDdiYzUyZGU3NjlhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+Real-Time Weather Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWJjOTdkMmEtMWNkYy00MWQyLTk2YjUtYmIzMzJjOTI2OGVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
